@@ -1,3 +1,6 @@
+I plan to include images and a recording of how I implemented this repository.
+
+
 # JWT Authentication Setup Guide for the MERN stack
 A guide for getting up and running with a JWT user authentication system for a React application using an Express + Mongo backend.
 
